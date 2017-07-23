@@ -1,0 +1,2702 @@
+[
+  {
+    "white": {
+      "players": [
+        "Bahrain",
+        "Ireland",
+        "Algeria",
+        "Nicaragua",
+        "Marshall Islands",
+        "Uruguay",
+        "Uganda"
+      ],
+      "score": 8
+    },
+    "black": {
+      "players": [
+        "Kiribati",
+        "Saint Lucia",
+        "East Timor",
+        "Pakistan",
+        "Bhutan",
+        "Gibraltar",
+        "Brazil"
+      ],
+      "score": 9
+    },
+    "date": "2016-02-23"
+  },
+  {
+    "white": {
+      "players": [
+        "Antarctica",
+        "Gabon",
+        "Zambia",
+        "Cuba",
+        "Italy",
+        "Costa Rica",
+        "Korea (South)"
+      ],
+      "score": 10
+    },
+    "black": {
+      "players": [
+        "Cyprus",
+        "Iraq",
+        "Canada",
+        "Martinique",
+        "Belarus",
+        "Virgin Islands (US)",
+        "Turkey"
+      ],
+      "score": 10
+    },
+    "date": "2017-07-17"
+  },
+  {
+    "white": {
+      "players": [
+        "India",
+        "Madagascar",
+        "S. Georgia and S. Sandwich Isls.",
+        "Finland",
+        "Burkina Faso",
+        "Tajikistan",
+        "Mozambique"
+      ],
+      "score": 12
+    },
+    "black": {
+      "players": [
+        "Iceland",
+        "Ukraine",
+        "Angola",
+        "Libya",
+        "Malta",
+        "British Indian Ocean Territory",
+        "Cameroon"
+      ],
+      "score": 7
+    },
+    "date": "2017-05-22"
+  },
+  {
+    "white": {
+      "players": [
+        "Bahamas",
+        "Guadeloupe",
+        "Antigua and Barbuda",
+        "Barbados",
+        "United Kingdom",
+        "Grenada",
+        "China"
+      ],
+      "score": 6
+    },
+    "black": {
+      "players": [
+        "Slovak Republic",
+        "Yemen",
+        "Jamaica",
+        "Christmas Island",
+        "Chile",
+        "Senegal",
+        "Vanuatu"
+      ],
+      "score": 10
+    },
+    "date": "2016-11-20"
+  },
+  {
+    "white": {
+      "players": [
+        "Czech Republic",
+        "Pitcairn",
+        "French Polynesia",
+        "US Minor Outlying Islands",
+        "Saudi Arabia",
+        "Palau",
+        "Chad"
+      ],
+      "score": 12
+    },
+    "black": {
+      "players": [
+        "Guinea-Bissau",
+        "Estonia",
+        "Puerto Rico",
+        "Bangladesh",
+        "Tonga",
+        "Kenya",
+        "Zimbabwe"
+      ],
+      "score": 10
+    },
+    "date": "2016-10-03"
+  },
+  {
+    "white": {
+      "players": [
+        "Dominica",
+        "France, Metropolitan",
+        "Lebanon",
+        "Netherlands",
+        "Korea (North)",
+        "Cambodia",
+        "Yugoslavia"
+      ],
+      "score": 6
+    },
+    "black": {
+      "players": [
+        "Brunei Darussalam",
+        "Papua New Guinea",
+        "Egypt",
+        "Saint Vincent and The Grenadines",
+        "Portugal",
+        "French Southern Territories",
+        "Kyrgyzstan"
+      ],
+      "score": 10
+    },
+    "date": "2016-12-23"
+  },
+  {
+    "white": {
+      "players": [
+        "Namibia",
+        "Andorra",
+        "Albania",
+        "Netherlands Antilles",
+        "Vatican City State (Holy See)",
+        "Indonesia",
+        "Sri Lanka"
+      ],
+      "score": 9
+    },
+    "black": {
+      "players": [
+        "Viet Nam",
+        "Norfolk Island",
+        "New Caledonia",
+        "Falkland Islands (Malvinas)",
+        "Solomon Islands",
+        "Armenia",
+        "Heard and McDonald Islands"
+      ],
+      "score": 8
+    },
+    "date": "2016-03-10"
+  },
+  {
+    "white": {
+      "players": [
+        "Belgium",
+        "Mali",
+        "Kazakhstan",
+        "Ecuador",
+        "Singapore",
+        "Macedonia",
+        "Cote D'Ivoire (Ivory Coast)"
+      ],
+      "score": 9
+    },
+    "black": {
+      "players": [
+        "Russian Federation",
+        "Macau",
+        "Germany",
+        "Djibouti",
+        "St. Pierre and Miquelon",
+        "Svalbard and Jan Mayen Islands",
+        "Thailand"
+      ],
+      "score": 10
+    },
+    "date": "2016-09-17"
+  },
+  {
+    "white": {
+      "players": [
+        "United States",
+        "Tokelau",
+        "Liberia",
+        "Cocos (Keeling Islands)",
+        "Venezuela",
+        "Nepal",
+        "Nigeria"
+      ],
+      "score": 6
+    },
+    "black": {
+      "players": [
+        "Ethiopia",
+        "Maldives",
+        "Guyana",
+        "Liechtenstein",
+        "Azerbaijan",
+        "American Samoa",
+        "Benin"
+      ],
+      "score": 7
+    },
+    "date": "2016-09-23"
+  },
+  {
+    "white": {
+      "players": [
+        "St. Helena",
+        "Somalia",
+        "Botswana",
+        "United Arab Emirates",
+        "Cape Verde",
+        "Equatorial Guinea",
+        "Niue"
+      ],
+      "score": 12
+    },
+    "black": {
+      "players": [
+        "Syria",
+        "Philippines",
+        "Wallis and Futuna Islands",
+        "Sweden",
+        "Slovenia",
+        "Nauru",
+        "Denmark"
+      ],
+      "score": 6
+    },
+    "date": "2017-03-05"
+  },
+  {
+    "white": {
+      "players": [
+        "Israel",
+        "Samoa",
+        "Malawi",
+        "Greenland",
+        "San Marino",
+        "Lesotho",
+        "Switzerland"
+      ],
+      "score": 7
+    },
+    "black": {
+      "players": [
+        "France",
+        "Zaire",
+        "Congo",
+        "Bosnia and Herzegovina",
+        "Belize",
+        "Colombia",
+        "Guinea"
+      ],
+      "score": 11
+    },
+    "date": "2016-10-08"
+  },
+  {
+    "white": {
+      "players": [
+        "Suriname",
+        "French Guiana",
+        "El Salvador",
+        "Luxembourg",
+        "Norway",
+        "Uzbekistan",
+        "Laos"
+      ],
+      "score": 10
+    },
+    "black": {
+      "players": [
+        "Argentina",
+        "Honduras",
+        "Trinidad and Tobago",
+        "Moldova",
+        "Haiti",
+        "Romania",
+        "Qatar"
+      ],
+      "score": 10
+    },
+    "date": "2016-12-26"
+  },
+  {
+    "white": {
+      "players": [
+        "Ghana",
+        "Northern Mariana Islands",
+        "Central African Republic",
+        "Comoros",
+        "Malaysia",
+        "Taiwan",
+        "Mauritania"
+      ],
+      "score": 7
+    },
+    "black": {
+      "players": [
+        "Bulgaria",
+        "Western Sahara",
+        "Latvia",
+        "Seychelles",
+        "Mexico",
+        "Swaziland",
+        "Sierra Leone"
+      ],
+      "score": 7
+    },
+    "date": "2016-03-14"
+  },
+  {
+    "white": {
+      "players": [
+        "Mauritius",
+        "Gambia",
+        "Iran",
+        "Hungary",
+        "Micronesia",
+        "Tuvalu",
+        "Monaco"
+      ],
+      "score": 9
+    },
+    "black": {
+      "players": [
+        "Togo",
+        "Turks and Caicos Islands",
+        "Morocco",
+        "Croatia (Hrvatska)",
+        "New Zealand",
+        "Mongolia",
+        "Lithuania"
+      ],
+      "score": 8
+    },
+    "date": "2016-01-13"
+  },
+  {
+    "white": {
+      "players": [
+        "Georgia",
+        "Guatemala",
+        "Paraguay",
+        "South Africa",
+        "Montserrat",
+        "Jordan",
+        "Japan"
+      ],
+      "score": 12
+    },
+    "black": {
+      "players": [
+        "Poland",
+        "Burundi",
+        "Australia",
+        "Anguilla",
+        "Eritrea",
+        "Cook Islands",
+        "Tanzania"
+      ],
+      "score": 12
+    },
+    "date": "2016-11-22"
+  },
+  {
+    "white": {
+      "players": [
+        "Afghanistan",
+        "Faroe Islands",
+        "Austria",
+        "Fiji",
+        "Mayotte",
+        "Greece",
+        "Guam"
+      ],
+      "score": 11
+    },
+    "black": {
+      "players": [
+        "Dominican Republic",
+        "Cayman Islands",
+        "Kuwait",
+        "Turkmenistan",
+        "Reunion",
+        "Bermuda",
+        "Hong Kong"
+      ],
+      "score": 12
+    },
+    "date": "2017-02-17"
+  },
+  {
+    "white": {
+      "players": [
+        "Niger",
+        "Oman",
+        "Sao Tome and Principe",
+        "Spain",
+        "Peru",
+        "Bolivia",
+        "Myanmar"
+      ],
+      "score": 7
+    },
+    "black": {
+      "players": [
+        "Aruba",
+        "Tunisia",
+        "Sudan",
+        "Bouvet Island",
+        "Rwanda",
+        "Virgin Islands (British)",
+        "Panama"
+      ],
+      "score": 12
+    },
+    "date": "2017-07-15"
+  },
+  {
+    "white": {
+      "players": [
+        "Bahrain",
+        "Ireland",
+        "Algeria",
+        "Nicaragua",
+        "Marshall Islands",
+        "Uruguay",
+        "Uganda"
+      ],
+      "score": 9
+    },
+    "black": {
+      "players": [
+        "Kiribati",
+        "Saint Lucia",
+        "East Timor",
+        "Pakistan",
+        "Bhutan",
+        "Gibraltar",
+        "Brazil"
+      ],
+      "score": 12
+    },
+    "date": "2016-04-18"
+  },
+  {
+    "white": {
+      "players": [
+        "Antarctica",
+        "Gabon",
+        "Zambia",
+        "Cuba",
+        "Italy",
+        "Costa Rica",
+        "Korea (South)"
+      ],
+      "score": 12
+    },
+    "black": {
+      "players": [
+        "Cyprus",
+        "Iraq",
+        "Canada",
+        "Martinique",
+        "Belarus",
+        "Virgin Islands (US)",
+        "Turkey"
+      ],
+      "score": 7
+    },
+    "date": "2016-12-26"
+  },
+  {
+    "white": {
+      "players": [
+        "India",
+        "Madagascar",
+        "S. Georgia and S. Sandwich Isls.",
+        "Finland",
+        "Burkina Faso",
+        "Tajikistan",
+        "Mozambique"
+      ],
+      "score": 12
+    },
+    "black": {
+      "players": [
+        "Iceland",
+        "Ukraine",
+        "Angola",
+        "Libya",
+        "Malta",
+        "British Indian Ocean Territory",
+        "Cameroon"
+      ],
+      "score": 7
+    },
+    "date": "2016-06-06"
+  },
+  {
+    "white": {
+      "players": [
+        "Bahamas",
+        "Guadeloupe",
+        "Antigua and Barbuda",
+        "Barbados",
+        "United Kingdom",
+        "Grenada",
+        "China"
+      ],
+      "score": 7
+    },
+    "black": {
+      "players": [
+        "Slovak Republic",
+        "Yemen",
+        "Jamaica",
+        "Christmas Island",
+        "Chile",
+        "Senegal",
+        "Vanuatu"
+      ],
+      "score": 12
+    },
+    "date": "2016-08-19"
+  },
+  {
+    "white": {
+      "players": [
+        "Czech Republic",
+        "Pitcairn",
+        "French Polynesia",
+        "US Minor Outlying Islands",
+        "Saudi Arabia",
+        "Palau",
+        "Chad"
+      ],
+      "score": 8
+    },
+    "black": {
+      "players": [
+        "Guinea-Bissau",
+        "Estonia",
+        "Puerto Rico",
+        "Bangladesh",
+        "Tonga",
+        "Kenya",
+        "Zimbabwe"
+      ],
+      "score": 12
+    },
+    "date": "2017-05-15"
+  },
+  {
+    "white": {
+      "players": [
+        "Dominica",
+        "France, Metropolitan",
+        "Lebanon",
+        "Netherlands",
+        "Korea (North)",
+        "Cambodia",
+        "Yugoslavia"
+      ],
+      "score": 10
+    },
+    "black": {
+      "players": [
+        "Brunei Darussalam",
+        "Papua New Guinea",
+        "Egypt",
+        "Saint Vincent and The Grenadines",
+        "Portugal",
+        "French Southern Territories",
+        "Kyrgyzstan"
+      ],
+      "score": 10
+    },
+    "date": "2017-01-06"
+  },
+  {
+    "white": {
+      "players": [
+        "Namibia",
+        "Andorra",
+        "Albania",
+        "Netherlands Antilles",
+        "Vatican City State (Holy See)",
+        "Indonesia",
+        "Sri Lanka"
+      ],
+      "score": 6
+    },
+    "black": {
+      "players": [
+        "Viet Nam",
+        "Norfolk Island",
+        "New Caledonia",
+        "Falkland Islands (Malvinas)",
+        "Solomon Islands",
+        "Armenia",
+        "Heard and McDonald Islands"
+      ],
+      "score": 10
+    },
+    "date": "2016-09-19"
+  },
+  {
+    "white": {
+      "players": [
+        "Belgium",
+        "Mali",
+        "Kazakhstan",
+        "Ecuador",
+        "Singapore",
+        "Macedonia",
+        "Cote D'Ivoire (Ivory Coast)"
+      ],
+      "score": 8
+    },
+    "black": {
+      "players": [
+        "Russian Federation",
+        "Macau",
+        "Germany",
+        "Djibouti",
+        "St. Pierre and Miquelon",
+        "Svalbard and Jan Mayen Islands",
+        "Thailand"
+      ],
+      "score": 10
+    },
+    "date": "2016-01-14"
+  },
+  {
+    "white": {
+      "players": [
+        "United States",
+        "Tokelau",
+        "Liberia",
+        "Cocos (Keeling Islands)",
+        "Venezuela",
+        "Nepal",
+        "Nigeria"
+      ],
+      "score": 11
+    },
+    "black": {
+      "players": [
+        "Ethiopia",
+        "Maldives",
+        "Guyana",
+        "Liechtenstein",
+        "Azerbaijan",
+        "American Samoa",
+        "Benin"
+      ],
+      "score": 12
+    },
+    "date": "2016-03-15"
+  },
+  {
+    "white": {
+      "players": [
+        "St. Helena",
+        "Somalia",
+        "Botswana",
+        "United Arab Emirates",
+        "Cape Verde",
+        "Equatorial Guinea",
+        "Niue"
+      ],
+      "score": 6
+    },
+    "black": {
+      "players": [
+        "Syria",
+        "Philippines",
+        "Wallis and Futuna Islands",
+        "Sweden",
+        "Slovenia",
+        "Nauru",
+        "Denmark"
+      ],
+      "score": 11
+    },
+    "date": "2016-11-06"
+  },
+  {
+    "white": {
+      "players": [
+        "Israel",
+        "Samoa",
+        "Malawi",
+        "Greenland",
+        "San Marino",
+        "Lesotho",
+        "Switzerland"
+      ],
+      "score": 8
+    },
+    "black": {
+      "players": [
+        "France",
+        "Zaire",
+        "Congo",
+        "Bosnia and Herzegovina",
+        "Belize",
+        "Colombia",
+        "Guinea"
+      ],
+      "score": 6
+    },
+    "date": "2017-04-19"
+  },
+  {
+    "white": {
+      "players": [
+        "Suriname",
+        "French Guiana",
+        "El Salvador",
+        "Luxembourg",
+        "Norway",
+        "Uzbekistan",
+        "Laos"
+      ],
+      "score": 10
+    },
+    "black": {
+      "players": [
+        "Argentina",
+        "Honduras",
+        "Trinidad and Tobago",
+        "Moldova",
+        "Haiti",
+        "Romania",
+        "Qatar"
+      ],
+      "score": 7
+    },
+    "date": "2017-01-15"
+  },
+  {
+    "white": {
+      "players": [
+        "Ghana",
+        "Northern Mariana Islands",
+        "Central African Republic",
+        "Comoros",
+        "Malaysia",
+        "Taiwan",
+        "Mauritania"
+      ],
+      "score": 11
+    },
+    "black": {
+      "players": [
+        "Bulgaria",
+        "Western Sahara",
+        "Latvia",
+        "Seychelles",
+        "Mexico",
+        "Swaziland",
+        "Sierra Leone"
+      ],
+      "score": 12
+    },
+    "date": "2016-11-06"
+  },
+  {
+    "white": {
+      "players": [
+        "Mauritius",
+        "Gambia",
+        "Iran",
+        "Hungary",
+        "Micronesia",
+        "Tuvalu",
+        "Monaco"
+      ],
+      "score": 8
+    },
+    "black": {
+      "players": [
+        "Togo",
+        "Turks and Caicos Islands",
+        "Morocco",
+        "Croatia (Hrvatska)",
+        "New Zealand",
+        "Mongolia",
+        "Lithuania"
+      ],
+      "score": 10
+    },
+    "date": "2016-10-24"
+  },
+  {
+    "white": {
+      "players": [
+        "Georgia",
+        "Guatemala",
+        "Paraguay",
+        "South Africa",
+        "Montserrat",
+        "Jordan",
+        "Japan"
+      ],
+      "score": 7
+    },
+    "black": {
+      "players": [
+        "Poland",
+        "Burundi",
+        "Australia",
+        "Anguilla",
+        "Eritrea",
+        "Cook Islands",
+        "Tanzania"
+      ],
+      "score": 11
+    },
+    "date": "2016-05-16"
+  },
+  {
+    "white": {
+      "players": [
+        "Afghanistan",
+        "Faroe Islands",
+        "Austria",
+        "Fiji",
+        "Mayotte",
+        "Greece",
+        "Guam"
+      ],
+      "score": 9
+    },
+    "black": {
+      "players": [
+        "Dominican Republic",
+        "Cayman Islands",
+        "Kuwait",
+        "Turkmenistan",
+        "Reunion",
+        "Bermuda",
+        "Hong Kong"
+      ],
+      "score": 6
+    },
+    "date": "2016-03-07"
+  },
+  {
+    "white": {
+      "players": [
+        "Niger",
+        "Oman",
+        "Sao Tome and Principe",
+        "Spain",
+        "Peru",
+        "Bolivia",
+        "Myanmar"
+      ],
+      "score": 9
+    },
+    "black": {
+      "players": [
+        "Aruba",
+        "Tunisia",
+        "Sudan",
+        "Bouvet Island",
+        "Rwanda",
+        "Virgin Islands (British)",
+        "Panama"
+      ],
+      "score": 11
+    },
+    "date": "2016-05-12"
+  },
+  {
+    "white": {
+      "players": [
+        "Bahrain",
+        "Ireland",
+        "Algeria",
+        "Nicaragua",
+        "Marshall Islands",
+        "Uruguay",
+        "Uganda"
+      ],
+      "score": 7
+    },
+    "black": {
+      "players": [
+        "Kiribati",
+        "Saint Lucia",
+        "East Timor",
+        "Pakistan",
+        "Bhutan",
+        "Gibraltar",
+        "Brazil"
+      ],
+      "score": 7
+    },
+    "date": "2016-11-08"
+  },
+  {
+    "white": {
+      "players": [
+        "Antarctica",
+        "Gabon",
+        "Zambia",
+        "Cuba",
+        "Italy",
+        "Costa Rica",
+        "Korea (South)"
+      ],
+      "score": 10
+    },
+    "black": {
+      "players": [
+        "Cyprus",
+        "Iraq",
+        "Canada",
+        "Martinique",
+        "Belarus",
+        "Virgin Islands (US)",
+        "Turkey"
+      ],
+      "score": 7
+    },
+    "date": "2016-03-03"
+  },
+  {
+    "white": {
+      "players": [
+        "India",
+        "Madagascar",
+        "S. Georgia and S. Sandwich Isls.",
+        "Finland",
+        "Burkina Faso",
+        "Tajikistan",
+        "Mozambique"
+      ],
+      "score": 11
+    },
+    "black": {
+      "players": [
+        "Iceland",
+        "Ukraine",
+        "Angola",
+        "Libya",
+        "Malta",
+        "British Indian Ocean Territory",
+        "Cameroon"
+      ],
+      "score": 9
+    },
+    "date": "2016-03-17"
+  },
+  {
+    "white": {
+      "players": [
+        "Bahamas",
+        "Guadeloupe",
+        "Antigua and Barbuda",
+        "Barbados",
+        "United Kingdom",
+        "Grenada",
+        "China"
+      ],
+      "score": 6
+    },
+    "black": {
+      "players": [
+        "Slovak Republic",
+        "Yemen",
+        "Jamaica",
+        "Christmas Island",
+        "Chile",
+        "Senegal",
+        "Vanuatu"
+      ],
+      "score": 9
+    },
+    "date": "2017-01-08"
+  },
+  {
+    "white": {
+      "players": [
+        "Czech Republic",
+        "Pitcairn",
+        "French Polynesia",
+        "US Minor Outlying Islands",
+        "Saudi Arabia",
+        "Palau",
+        "Chad"
+      ],
+      "score": 11
+    },
+    "black": {
+      "players": [
+        "Guinea-Bissau",
+        "Estonia",
+        "Puerto Rico",
+        "Bangladesh",
+        "Tonga",
+        "Kenya",
+        "Zimbabwe"
+      ],
+      "score": 8
+    },
+    "date": "2017-06-26"
+  },
+  {
+    "white": {
+      "players": [
+        "Dominica",
+        "France, Metropolitan",
+        "Lebanon",
+        "Netherlands",
+        "Korea (North)",
+        "Cambodia",
+        "Yugoslavia"
+      ],
+      "score": 10
+    },
+    "black": {
+      "players": [
+        "Brunei Darussalam",
+        "Papua New Guinea",
+        "Egypt",
+        "Saint Vincent and The Grenadines",
+        "Portugal",
+        "French Southern Territories",
+        "Kyrgyzstan"
+      ],
+      "score": 12
+    },
+    "date": "2017-07-23"
+  },
+  {
+    "white": {
+      "players": [
+        "Namibia",
+        "Andorra",
+        "Albania",
+        "Netherlands Antilles",
+        "Vatican City State (Holy See)",
+        "Indonesia",
+        "Sri Lanka"
+      ],
+      "score": 12
+    },
+    "black": {
+      "players": [
+        "Viet Nam",
+        "Norfolk Island",
+        "New Caledonia",
+        "Falkland Islands (Malvinas)",
+        "Solomon Islands",
+        "Armenia",
+        "Heard and McDonald Islands"
+      ],
+      "score": 7
+    },
+    "date": "2016-12-02"
+  },
+  {
+    "white": {
+      "players": [
+        "Belgium",
+        "Mali",
+        "Kazakhstan",
+        "Ecuador",
+        "Singapore",
+        "Macedonia",
+        "Cote D'Ivoire (Ivory Coast)"
+      ],
+      "score": 10
+    },
+    "black": {
+      "players": [
+        "Russian Federation",
+        "Macau",
+        "Germany",
+        "Djibouti",
+        "St. Pierre and Miquelon",
+        "Svalbard and Jan Mayen Islands",
+        "Thailand"
+      ],
+      "score": 8
+    },
+    "date": "2016-09-05"
+  },
+  {
+    "white": {
+      "players": [
+        "United States",
+        "Tokelau",
+        "Liberia",
+        "Cocos (Keeling Islands)",
+        "Venezuela",
+        "Nepal",
+        "Nigeria"
+      ],
+      "score": 7
+    },
+    "black": {
+      "players": [
+        "Ethiopia",
+        "Maldives",
+        "Guyana",
+        "Liechtenstein",
+        "Azerbaijan",
+        "American Samoa",
+        "Benin"
+      ],
+      "score": 9
+    },
+    "date": "2016-06-17"
+  },
+  {
+    "white": {
+      "players": [
+        "St. Helena",
+        "Somalia",
+        "Botswana",
+        "United Arab Emirates",
+        "Cape Verde",
+        "Equatorial Guinea",
+        "Niue"
+      ],
+      "score": 9
+    },
+    "black": {
+      "players": [
+        "Syria",
+        "Philippines",
+        "Wallis and Futuna Islands",
+        "Sweden",
+        "Slovenia",
+        "Nauru",
+        "Denmark"
+      ],
+      "score": 9
+    },
+    "date": "2017-05-29"
+  },
+  {
+    "white": {
+      "players": [
+        "Israel",
+        "Samoa",
+        "Malawi",
+        "Greenland",
+        "San Marino",
+        "Lesotho",
+        "Switzerland"
+      ],
+      "score": 6
+    },
+    "black": {
+      "players": [
+        "France",
+        "Zaire",
+        "Congo",
+        "Bosnia and Herzegovina",
+        "Belize",
+        "Colombia",
+        "Guinea"
+      ],
+      "score": 9
+    },
+    "date": "2017-04-21"
+  },
+  {
+    "white": {
+      "players": [
+        "Suriname",
+        "French Guiana",
+        "El Salvador",
+        "Luxembourg",
+        "Norway",
+        "Uzbekistan",
+        "Laos"
+      ],
+      "score": 6
+    },
+    "black": {
+      "players": [
+        "Argentina",
+        "Honduras",
+        "Trinidad and Tobago",
+        "Moldova",
+        "Haiti",
+        "Romania",
+        "Qatar"
+      ],
+      "score": 7
+    },
+    "date": "2017-01-27"
+  },
+  {
+    "white": {
+      "players": [
+        "Ghana",
+        "Northern Mariana Islands",
+        "Central African Republic",
+        "Comoros",
+        "Malaysia",
+        "Taiwan",
+        "Mauritania"
+      ],
+      "score": 12
+    },
+    "black": {
+      "players": [
+        "Bulgaria",
+        "Western Sahara",
+        "Latvia",
+        "Seychelles",
+        "Mexico",
+        "Swaziland",
+        "Sierra Leone"
+      ],
+      "score": 12
+    },
+    "date": "2016-02-24"
+  },
+  {
+    "white": {
+      "players": [
+        "Mauritius",
+        "Gambia",
+        "Iran",
+        "Hungary",
+        "Micronesia",
+        "Tuvalu",
+        "Monaco"
+      ],
+      "score": 6
+    },
+    "black": {
+      "players": [
+        "Togo",
+        "Turks and Caicos Islands",
+        "Morocco",
+        "Croatia (Hrvatska)",
+        "New Zealand",
+        "Mongolia",
+        "Lithuania"
+      ],
+      "score": 11
+    },
+    "date": "2016-07-13"
+  },
+  {
+    "white": {
+      "players": [
+        "Georgia",
+        "Guatemala",
+        "Paraguay",
+        "South Africa",
+        "Montserrat",
+        "Jordan",
+        "Japan"
+      ],
+      "score": 12
+    },
+    "black": {
+      "players": [
+        "Poland",
+        "Burundi",
+        "Australia",
+        "Anguilla",
+        "Eritrea",
+        "Cook Islands",
+        "Tanzania"
+      ],
+      "score": 7
+    },
+    "date": "2016-04-27"
+  },
+  {
+    "white": {
+      "players": [
+        "Afghanistan",
+        "Faroe Islands",
+        "Austria",
+        "Fiji",
+        "Mayotte",
+        "Greece",
+        "Guam"
+      ],
+      "score": 12
+    },
+    "black": {
+      "players": [
+        "Dominican Republic",
+        "Cayman Islands",
+        "Kuwait",
+        "Turkmenistan",
+        "Reunion",
+        "Bermuda",
+        "Hong Kong"
+      ],
+      "score": 8
+    },
+    "date": "2017-05-22"
+  },
+  {
+    "white": {
+      "players": [
+        "Niger",
+        "Oman",
+        "Sao Tome and Principe",
+        "Spain",
+        "Peru",
+        "Bolivia",
+        "Myanmar"
+      ],
+      "score": 10
+    },
+    "black": {
+      "players": [
+        "Aruba",
+        "Tunisia",
+        "Sudan",
+        "Bouvet Island",
+        "Rwanda",
+        "Virgin Islands (British)",
+        "Panama"
+      ],
+      "score": 8
+    },
+    "date": "2016-07-14"
+  },
+  {
+    "white": {
+      "players": [
+        "Bahrain",
+        "Ireland",
+        "Algeria",
+        "Nicaragua",
+        "Marshall Islands",
+        "Uruguay",
+        "Uganda"
+      ],
+      "score": 11
+    },
+    "black": {
+      "players": [
+        "Kiribati",
+        "Saint Lucia",
+        "East Timor",
+        "Pakistan",
+        "Bhutan",
+        "Gibraltar",
+        "Brazil"
+      ],
+      "score": 9
+    },
+    "date": "2017-04-07"
+  },
+  {
+    "white": {
+      "players": [
+        "Antarctica",
+        "Gabon",
+        "Zambia",
+        "Cuba",
+        "Italy",
+        "Costa Rica",
+        "Korea (South)"
+      ],
+      "score": 9
+    },
+    "black": {
+      "players": [
+        "Cyprus",
+        "Iraq",
+        "Canada",
+        "Martinique",
+        "Belarus",
+        "Virgin Islands (US)",
+        "Turkey"
+      ],
+      "score": 6
+    },
+    "date": "2017-05-30"
+  },
+  {
+    "white": {
+      "players": [
+        "India",
+        "Madagascar",
+        "S. Georgia and S. Sandwich Isls.",
+        "Finland",
+        "Burkina Faso",
+        "Tajikistan",
+        "Mozambique"
+      ],
+      "score": 6
+    },
+    "black": {
+      "players": [
+        "Iceland",
+        "Ukraine",
+        "Angola",
+        "Libya",
+        "Malta",
+        "British Indian Ocean Territory",
+        "Cameroon"
+      ],
+      "score": 12
+    },
+    "date": "2017-01-23"
+  },
+  {
+    "white": {
+      "players": [
+        "Bahamas",
+        "Guadeloupe",
+        "Antigua and Barbuda",
+        "Barbados",
+        "United Kingdom",
+        "Grenada",
+        "China"
+      ],
+      "score": 12
+    },
+    "black": {
+      "players": [
+        "Slovak Republic",
+        "Yemen",
+        "Jamaica",
+        "Christmas Island",
+        "Chile",
+        "Senegal",
+        "Vanuatu"
+      ],
+      "score": 10
+    },
+    "date": "2016-07-16"
+  },
+  {
+    "white": {
+      "players": [
+        "Czech Republic",
+        "Pitcairn",
+        "French Polynesia",
+        "US Minor Outlying Islands",
+        "Saudi Arabia",
+        "Palau",
+        "Chad"
+      ],
+      "score": 11
+    },
+    "black": {
+      "players": [
+        "Guinea-Bissau",
+        "Estonia",
+        "Puerto Rico",
+        "Bangladesh",
+        "Tonga",
+        "Kenya",
+        "Zimbabwe"
+      ],
+      "score": 8
+    },
+    "date": "2016-11-21"
+  },
+  {
+    "white": {
+      "players": [
+        "Dominica",
+        "France, Metropolitan",
+        "Lebanon",
+        "Netherlands",
+        "Korea (North)",
+        "Cambodia",
+        "Yugoslavia"
+      ],
+      "score": 10
+    },
+    "black": {
+      "players": [
+        "Brunei Darussalam",
+        "Papua New Guinea",
+        "Egypt",
+        "Saint Vincent and The Grenadines",
+        "Portugal",
+        "French Southern Territories",
+        "Kyrgyzstan"
+      ],
+      "score": 9
+    },
+    "date": "2016-09-01"
+  },
+  {
+    "white": {
+      "players": [
+        "Namibia",
+        "Andorra",
+        "Albania",
+        "Netherlands Antilles",
+        "Vatican City State (Holy See)",
+        "Indonesia",
+        "Sri Lanka"
+      ],
+      "score": 11
+    },
+    "black": {
+      "players": [
+        "Viet Nam",
+        "Norfolk Island",
+        "New Caledonia",
+        "Falkland Islands (Malvinas)",
+        "Solomon Islands",
+        "Armenia",
+        "Heard and McDonald Islands"
+      ],
+      "score": 9
+    },
+    "date": "2017-02-16"
+  },
+  {
+    "white": {
+      "players": [
+        "Belgium",
+        "Mali",
+        "Kazakhstan",
+        "Ecuador",
+        "Singapore",
+        "Macedonia",
+        "Cote D'Ivoire (Ivory Coast)"
+      ],
+      "score": 12
+    },
+    "black": {
+      "players": [
+        "Russian Federation",
+        "Macau",
+        "Germany",
+        "Djibouti",
+        "St. Pierre and Miquelon",
+        "Svalbard and Jan Mayen Islands",
+        "Thailand"
+      ],
+      "score": 8
+    },
+    "date": "2017-04-23"
+  },
+  {
+    "white": {
+      "players": [
+        "United States",
+        "Tokelau",
+        "Liberia",
+        "Cocos (Keeling Islands)",
+        "Venezuela",
+        "Nepal",
+        "Nigeria"
+      ],
+      "score": 12
+    },
+    "black": {
+      "players": [
+        "Ethiopia",
+        "Maldives",
+        "Guyana",
+        "Liechtenstein",
+        "Azerbaijan",
+        "American Samoa",
+        "Benin"
+      ],
+      "score": 12
+    },
+    "date": "2017-03-30"
+  },
+  {
+    "white": {
+      "players": [
+        "St. Helena",
+        "Somalia",
+        "Botswana",
+        "United Arab Emirates",
+        "Cape Verde",
+        "Equatorial Guinea",
+        "Niue"
+      ],
+      "score": 11
+    },
+    "black": {
+      "players": [
+        "Syria",
+        "Philippines",
+        "Wallis and Futuna Islands",
+        "Sweden",
+        "Slovenia",
+        "Nauru",
+        "Denmark"
+      ],
+      "score": 8
+    },
+    "date": "2017-06-24"
+  },
+  {
+    "white": {
+      "players": [
+        "Israel",
+        "Samoa",
+        "Malawi",
+        "Greenland",
+        "San Marino",
+        "Lesotho",
+        "Switzerland"
+      ],
+      "score": 12
+    },
+    "black": {
+      "players": [
+        "France",
+        "Zaire",
+        "Congo",
+        "Bosnia and Herzegovina",
+        "Belize",
+        "Colombia",
+        "Guinea"
+      ],
+      "score": 6
+    },
+    "date": "2016-02-24"
+  },
+  {
+    "white": {
+      "players": [
+        "Suriname",
+        "French Guiana",
+        "El Salvador",
+        "Luxembourg",
+        "Norway",
+        "Uzbekistan",
+        "Laos"
+      ],
+      "score": 9
+    },
+    "black": {
+      "players": [
+        "Argentina",
+        "Honduras",
+        "Trinidad and Tobago",
+        "Moldova",
+        "Haiti",
+        "Romania",
+        "Qatar"
+      ],
+      "score": 6
+    },
+    "date": "2016-08-31"
+  },
+  {
+    "white": {
+      "players": [
+        "Ghana",
+        "Northern Mariana Islands",
+        "Central African Republic",
+        "Comoros",
+        "Malaysia",
+        "Taiwan",
+        "Mauritania"
+      ],
+      "score": 6
+    },
+    "black": {
+      "players": [
+        "Bulgaria",
+        "Western Sahara",
+        "Latvia",
+        "Seychelles",
+        "Mexico",
+        "Swaziland",
+        "Sierra Leone"
+      ],
+      "score": 9
+    },
+    "date": "2017-07-12"
+  },
+  {
+    "white": {
+      "players": [
+        "Mauritius",
+        "Gambia",
+        "Iran",
+        "Hungary",
+        "Micronesia",
+        "Tuvalu",
+        "Monaco"
+      ],
+      "score": 12
+    },
+    "black": {
+      "players": [
+        "Togo",
+        "Turks and Caicos Islands",
+        "Morocco",
+        "Croatia (Hrvatska)",
+        "New Zealand",
+        "Mongolia",
+        "Lithuania"
+      ],
+      "score": 11
+    },
+    "date": "2016-12-22"
+  },
+  {
+    "white": {
+      "players": [
+        "Georgia",
+        "Guatemala",
+        "Paraguay",
+        "South Africa",
+        "Montserrat",
+        "Jordan",
+        "Japan"
+      ],
+      "score": 11
+    },
+    "black": {
+      "players": [
+        "Poland",
+        "Burundi",
+        "Australia",
+        "Anguilla",
+        "Eritrea",
+        "Cook Islands",
+        "Tanzania"
+      ],
+      "score": 6
+    },
+    "date": "2016-11-11"
+  },
+  {
+    "white": {
+      "players": [
+        "Afghanistan",
+        "Faroe Islands",
+        "Austria",
+        "Fiji",
+        "Mayotte",
+        "Greece",
+        "Guam"
+      ],
+      "score": 11
+    },
+    "black": {
+      "players": [
+        "Dominican Republic",
+        "Cayman Islands",
+        "Kuwait",
+        "Turkmenistan",
+        "Reunion",
+        "Bermuda",
+        "Hong Kong"
+      ],
+      "score": 7
+    },
+    "date": "2017-06-15"
+  },
+  {
+    "white": {
+      "players": [
+        "Niger",
+        "Oman",
+        "Sao Tome and Principe",
+        "Spain",
+        "Peru",
+        "Bolivia",
+        "Myanmar"
+      ],
+      "score": 6
+    },
+    "black": {
+      "players": [
+        "Aruba",
+        "Tunisia",
+        "Sudan",
+        "Bouvet Island",
+        "Rwanda",
+        "Virgin Islands (British)",
+        "Panama"
+      ],
+      "score": 12
+    },
+    "date": "2016-08-26"
+  },
+  {
+    "white": {
+      "players": [
+        "Bahrain",
+        "Ireland",
+        "Algeria",
+        "Nicaragua",
+        "Marshall Islands",
+        "Uruguay",
+        "Uganda"
+      ],
+      "score": 7
+    },
+    "black": {
+      "players": [
+        "Kiribati",
+        "Saint Lucia",
+        "East Timor",
+        "Pakistan",
+        "Bhutan",
+        "Gibraltar",
+        "Brazil"
+      ],
+      "score": 8
+    },
+    "date": "2016-09-26"
+  },
+  {
+    "white": {
+      "players": [
+        "Antarctica",
+        "Gabon",
+        "Zambia",
+        "Cuba",
+        "Italy",
+        "Costa Rica",
+        "Korea (South)"
+      ],
+      "score": 10
+    },
+    "black": {
+      "players": [
+        "Cyprus",
+        "Iraq",
+        "Canada",
+        "Martinique",
+        "Belarus",
+        "Virgin Islands (US)",
+        "Turkey"
+      ],
+      "score": 12
+    },
+    "date": "2017-05-01"
+  },
+  {
+    "white": {
+      "players": [
+        "India",
+        "Madagascar",
+        "S. Georgia and S. Sandwich Isls.",
+        "Finland",
+        "Burkina Faso",
+        "Tajikistan",
+        "Mozambique"
+      ],
+      "score": 9
+    },
+    "black": {
+      "players": [
+        "Iceland",
+        "Ukraine",
+        "Angola",
+        "Libya",
+        "Malta",
+        "British Indian Ocean Territory",
+        "Cameroon"
+      ],
+      "score": 9
+    },
+    "date": "2017-04-26"
+  },
+  {
+    "white": {
+      "players": [
+        "Bahamas",
+        "Guadeloupe",
+        "Antigua and Barbuda",
+        "Barbados",
+        "United Kingdom",
+        "Grenada",
+        "China"
+      ],
+      "score": 12
+    },
+    "black": {
+      "players": [
+        "Slovak Republic",
+        "Yemen",
+        "Jamaica",
+        "Christmas Island",
+        "Chile",
+        "Senegal",
+        "Vanuatu"
+      ],
+      "score": 9
+    },
+    "date": "2017-03-15"
+  },
+  {
+    "white": {
+      "players": [
+        "Czech Republic",
+        "Pitcairn",
+        "French Polynesia",
+        "US Minor Outlying Islands",
+        "Saudi Arabia",
+        "Palau",
+        "Chad"
+      ],
+      "score": 8
+    },
+    "black": {
+      "players": [
+        "Guinea-Bissau",
+        "Estonia",
+        "Puerto Rico",
+        "Bangladesh",
+        "Tonga",
+        "Kenya",
+        "Zimbabwe"
+      ],
+      "score": 8
+    },
+    "date": "2016-04-04"
+  },
+  {
+    "white": {
+      "players": [
+        "Dominica",
+        "France, Metropolitan",
+        "Lebanon",
+        "Netherlands",
+        "Korea (North)",
+        "Cambodia",
+        "Yugoslavia"
+      ],
+      "score": 10
+    },
+    "black": {
+      "players": [
+        "Brunei Darussalam",
+        "Papua New Guinea",
+        "Egypt",
+        "Saint Vincent and The Grenadines",
+        "Portugal",
+        "French Southern Territories",
+        "Kyrgyzstan"
+      ],
+      "score": 6
+    },
+    "date": "2016-04-30"
+  },
+  {
+    "white": {
+      "players": [
+        "Namibia",
+        "Andorra",
+        "Albania",
+        "Netherlands Antilles",
+        "Vatican City State (Holy See)",
+        "Indonesia",
+        "Sri Lanka"
+      ],
+      "score": 11
+    },
+    "black": {
+      "players": [
+        "Viet Nam",
+        "Norfolk Island",
+        "New Caledonia",
+        "Falkland Islands (Malvinas)",
+        "Solomon Islands",
+        "Armenia",
+        "Heard and McDonald Islands"
+      ],
+      "score": 6
+    },
+    "date": "2016-10-19"
+  },
+  {
+    "white": {
+      "players": [
+        "Belgium",
+        "Mali",
+        "Kazakhstan",
+        "Ecuador",
+        "Singapore",
+        "Macedonia",
+        "Cote D'Ivoire (Ivory Coast)"
+      ],
+      "score": 9
+    },
+    "black": {
+      "players": [
+        "Russian Federation",
+        "Macau",
+        "Germany",
+        "Djibouti",
+        "St. Pierre and Miquelon",
+        "Svalbard and Jan Mayen Islands",
+        "Thailand"
+      ],
+      "score": 12
+    },
+    "date": "2016-11-27"
+  },
+  {
+    "white": {
+      "players": [
+        "United States",
+        "Tokelau",
+        "Liberia",
+        "Cocos (Keeling Islands)",
+        "Venezuela",
+        "Nepal",
+        "Nigeria"
+      ],
+      "score": 7
+    },
+    "black": {
+      "players": [
+        "Ethiopia",
+        "Maldives",
+        "Guyana",
+        "Liechtenstein",
+        "Azerbaijan",
+        "American Samoa",
+        "Benin"
+      ],
+      "score": 8
+    },
+    "date": "2017-06-08"
+  },
+  {
+    "white": {
+      "players": [
+        "St. Helena",
+        "Somalia",
+        "Botswana",
+        "United Arab Emirates",
+        "Cape Verde",
+        "Equatorial Guinea",
+        "Niue"
+      ],
+      "score": 8
+    },
+    "black": {
+      "players": [
+        "Syria",
+        "Philippines",
+        "Wallis and Futuna Islands",
+        "Sweden",
+        "Slovenia",
+        "Nauru",
+        "Denmark"
+      ],
+      "score": 7
+    },
+    "date": "2016-10-16"
+  },
+  {
+    "white": {
+      "players": [
+        "Israel",
+        "Samoa",
+        "Malawi",
+        "Greenland",
+        "San Marino",
+        "Lesotho",
+        "Switzerland"
+      ],
+      "score": 6
+    },
+    "black": {
+      "players": [
+        "France",
+        "Zaire",
+        "Congo",
+        "Bosnia and Herzegovina",
+        "Belize",
+        "Colombia",
+        "Guinea"
+      ],
+      "score": 7
+    },
+    "date": "2016-03-22"
+  },
+  {
+    "white": {
+      "players": [
+        "Suriname",
+        "French Guiana",
+        "El Salvador",
+        "Luxembourg",
+        "Norway",
+        "Uzbekistan",
+        "Laos"
+      ],
+      "score": 6
+    },
+    "black": {
+      "players": [
+        "Argentina",
+        "Honduras",
+        "Trinidad and Tobago",
+        "Moldova",
+        "Haiti",
+        "Romania",
+        "Qatar"
+      ],
+      "score": 8
+    },
+    "date": "2016-11-06"
+  },
+  {
+    "white": {
+      "players": [
+        "Ghana",
+        "Northern Mariana Islands",
+        "Central African Republic",
+        "Comoros",
+        "Malaysia",
+        "Taiwan",
+        "Mauritania"
+      ],
+      "score": 11
+    },
+    "black": {
+      "players": [
+        "Bulgaria",
+        "Western Sahara",
+        "Latvia",
+        "Seychelles",
+        "Mexico",
+        "Swaziland",
+        "Sierra Leone"
+      ],
+      "score": 9
+    },
+    "date": "2016-11-16"
+  },
+  {
+    "white": {
+      "players": [
+        "Mauritius",
+        "Gambia",
+        "Iran",
+        "Hungary",
+        "Micronesia",
+        "Tuvalu",
+        "Monaco"
+      ],
+      "score": 6
+    },
+    "black": {
+      "players": [
+        "Togo",
+        "Turks and Caicos Islands",
+        "Morocco",
+        "Croatia (Hrvatska)",
+        "New Zealand",
+        "Mongolia",
+        "Lithuania"
+      ],
+      "score": 8
+    },
+    "date": "2016-10-12"
+  },
+  {
+    "white": {
+      "players": [
+        "Georgia",
+        "Guatemala",
+        "Paraguay",
+        "South Africa",
+        "Montserrat",
+        "Jordan",
+        "Japan"
+      ],
+      "score": 11
+    },
+    "black": {
+      "players": [
+        "Poland",
+        "Burundi",
+        "Australia",
+        "Anguilla",
+        "Eritrea",
+        "Cook Islands",
+        "Tanzania"
+      ],
+      "score": 9
+    },
+    "date": "2017-01-09"
+  },
+  {
+    "white": {
+      "players": [
+        "Afghanistan",
+        "Faroe Islands",
+        "Austria",
+        "Fiji",
+        "Mayotte",
+        "Greece",
+        "Guam"
+      ],
+      "score": 9
+    },
+    "black": {
+      "players": [
+        "Dominican Republic",
+        "Cayman Islands",
+        "Kuwait",
+        "Turkmenistan",
+        "Reunion",
+        "Bermuda",
+        "Hong Kong"
+      ],
+      "score": 10
+    },
+    "date": "2016-02-02"
+  },
+  {
+    "white": {
+      "players": [
+        "Niger",
+        "Oman",
+        "Sao Tome and Principe",
+        "Spain",
+        "Peru",
+        "Bolivia",
+        "Myanmar"
+      ],
+      "score": 11
+    },
+    "black": {
+      "players": [
+        "Aruba",
+        "Tunisia",
+        "Sudan",
+        "Bouvet Island",
+        "Rwanda",
+        "Virgin Islands (British)",
+        "Panama"
+      ],
+      "score": 9
+    },
+    "date": "2016-12-26"
+  },
+  {
+    "white": {
+      "players": [
+        "Bahrain",
+        "Ireland",
+        "Algeria",
+        "Nicaragua",
+        "Marshall Islands",
+        "Uruguay",
+        "Uganda"
+      ],
+      "score": 9
+    },
+    "black": {
+      "players": [
+        "Kiribati",
+        "Saint Lucia",
+        "East Timor",
+        "Pakistan",
+        "Bhutan",
+        "Gibraltar",
+        "Brazil"
+      ],
+      "score": 9
+    },
+    "date": "2016-02-17"
+  },
+  {
+    "white": {
+      "players": [
+        "Antarctica",
+        "Gabon",
+        "Zambia",
+        "Cuba",
+        "Italy",
+        "Costa Rica",
+        "Korea (South)"
+      ],
+      "score": 11
+    },
+    "black": {
+      "players": [
+        "Cyprus",
+        "Iraq",
+        "Canada",
+        "Martinique",
+        "Belarus",
+        "Virgin Islands (US)",
+        "Turkey"
+      ],
+      "score": 10
+    },
+    "date": "2017-06-11"
+  },
+  {
+    "white": {
+      "players": [
+        "India",
+        "Madagascar",
+        "S. Georgia and S. Sandwich Isls.",
+        "Finland",
+        "Burkina Faso",
+        "Tajikistan",
+        "Mozambique"
+      ],
+      "score": 11
+    },
+    "black": {
+      "players": [
+        "Iceland",
+        "Ukraine",
+        "Angola",
+        "Libya",
+        "Malta",
+        "British Indian Ocean Territory",
+        "Cameroon"
+      ],
+      "score": 12
+    },
+    "date": "2016-09-30"
+  },
+  {
+    "white": {
+      "players": [
+        "Bahamas",
+        "Guadeloupe",
+        "Antigua and Barbuda",
+        "Barbados",
+        "United Kingdom",
+        "Grenada",
+        "China"
+      ],
+      "score": 12
+    },
+    "black": {
+      "players": [
+        "Slovak Republic",
+        "Yemen",
+        "Jamaica",
+        "Christmas Island",
+        "Chile",
+        "Senegal",
+        "Vanuatu"
+      ],
+      "score": 10
+    },
+    "date": "2016-01-28"
+  },
+  {
+    "white": {
+      "players": [
+        "Czech Republic",
+        "Pitcairn",
+        "French Polynesia",
+        "US Minor Outlying Islands",
+        "Saudi Arabia",
+        "Palau",
+        "Chad"
+      ],
+      "score": 9
+    },
+    "black": {
+      "players": [
+        "Guinea-Bissau",
+        "Estonia",
+        "Puerto Rico",
+        "Bangladesh",
+        "Tonga",
+        "Kenya",
+        "Zimbabwe"
+      ],
+      "score": 8
+    },
+    "date": "2017-04-29"
+  },
+  {
+    "white": {
+      "players": [
+        "Dominica",
+        "France, Metropolitan",
+        "Lebanon",
+        "Netherlands",
+        "Korea (North)",
+        "Cambodia",
+        "Yugoslavia"
+      ],
+      "score": 8
+    },
+    "black": {
+      "players": [
+        "Brunei Darussalam",
+        "Papua New Guinea",
+        "Egypt",
+        "Saint Vincent and The Grenadines",
+        "Portugal",
+        "French Southern Territories",
+        "Kyrgyzstan"
+      ],
+      "score": 10
+    },
+    "date": "2016-08-04"
+  },
+  {
+    "white": {
+      "players": [
+        "Namibia",
+        "Andorra",
+        "Albania",
+        "Netherlands Antilles",
+        "Vatican City State (Holy See)",
+        "Indonesia",
+        "Sri Lanka"
+      ],
+      "score": 8
+    },
+    "black": {
+      "players": [
+        "Viet Nam",
+        "Norfolk Island",
+        "New Caledonia",
+        "Falkland Islands (Malvinas)",
+        "Solomon Islands",
+        "Armenia",
+        "Heard and McDonald Islands"
+      ],
+      "score": 9
+    },
+    "date": "2016-12-06"
+  },
+  {
+    "white": {
+      "players": [
+        "Belgium",
+        "Mali",
+        "Kazakhstan",
+        "Ecuador",
+        "Singapore",
+        "Macedonia",
+        "Cote D'Ivoire (Ivory Coast)"
+      ],
+      "score": 7
+    },
+    "black": {
+      "players": [
+        "Russian Federation",
+        "Macau",
+        "Germany",
+        "Djibouti",
+        "St. Pierre and Miquelon",
+        "Svalbard and Jan Mayen Islands",
+        "Thailand"
+      ],
+      "score": 6
+    },
+    "date": "2016-01-09"
+  },
+  {
+    "white": {
+      "players": [
+        "United States",
+        "Tokelau",
+        "Liberia",
+        "Cocos (Keeling Islands)",
+        "Venezuela",
+        "Nepal",
+        "Nigeria"
+      ],
+      "score": 9
+    },
+    "black": {
+      "players": [
+        "Ethiopia",
+        "Maldives",
+        "Guyana",
+        "Liechtenstein",
+        "Azerbaijan",
+        "American Samoa",
+        "Benin"
+      ],
+      "score": 12
+    },
+    "date": "2017-04-29"
+  },
+  {
+    "white": {
+      "players": [
+        "St. Helena",
+        "Somalia",
+        "Botswana",
+        "United Arab Emirates",
+        "Cape Verde",
+        "Equatorial Guinea",
+        "Niue"
+      ],
+      "score": 8
+    },
+    "black": {
+      "players": [
+        "Syria",
+        "Philippines",
+        "Wallis and Futuna Islands",
+        "Sweden",
+        "Slovenia",
+        "Nauru",
+        "Denmark"
+      ],
+      "score": 8
+    },
+    "date": "2017-05-10"
+  },
+  {
+    "white": {
+      "players": [
+        "Israel",
+        "Samoa",
+        "Malawi",
+        "Greenland",
+        "San Marino",
+        "Lesotho",
+        "Switzerland"
+      ],
+      "score": 12
+    },
+    "black": {
+      "players": [
+        "France",
+        "Zaire",
+        "Congo",
+        "Bosnia and Herzegovina",
+        "Belize",
+        "Colombia",
+        "Guinea"
+      ],
+      "score": 6
+    },
+    "date": "2017-01-19"
+  },
+  {
+    "white": {
+      "players": [
+        "Suriname",
+        "French Guiana",
+        "El Salvador",
+        "Luxembourg",
+        "Norway",
+        "Uzbekistan",
+        "Laos"
+      ],
+      "score": 6
+    },
+    "black": {
+      "players": [
+        "Argentina",
+        "Honduras",
+        "Trinidad and Tobago",
+        "Moldova",
+        "Haiti",
+        "Romania",
+        "Qatar"
+      ],
+      "score": 9
+    },
+    "date": "2016-03-18"
+  },
+  {
+    "white": {
+      "players": [
+        "Ghana",
+        "Northern Mariana Islands",
+        "Central African Republic",
+        "Comoros",
+        "Malaysia",
+        "Taiwan",
+        "Mauritania"
+      ],
+      "score": 7
+    },
+    "black": {
+      "players": [
+        "Bulgaria",
+        "Western Sahara",
+        "Latvia",
+        "Seychelles",
+        "Mexico",
+        "Swaziland",
+        "Sierra Leone"
+      ],
+      "score": 7
+    },
+    "date": "2016-06-23"
+  },
+  {
+    "white": {
+      "players": [
+        "Mauritius",
+        "Gambia",
+        "Iran",
+        "Hungary",
+        "Micronesia",
+        "Tuvalu",
+        "Monaco"
+      ],
+      "score": 11
+    },
+    "black": {
+      "players": [
+        "Togo",
+        "Turks and Caicos Islands",
+        "Morocco",
+        "Croatia (Hrvatska)",
+        "New Zealand",
+        "Mongolia",
+        "Lithuania"
+      ],
+      "score": 9
+    },
+    "date": "2016-01-25"
+  },
+  {
+    "white": {
+      "players": [
+        "Georgia",
+        "Guatemala",
+        "Paraguay",
+        "South Africa",
+        "Montserrat",
+        "Jordan",
+        "Japan"
+      ],
+      "score": 9
+    },
+    "black": {
+      "players": [
+        "Poland",
+        "Burundi",
+        "Australia",
+        "Anguilla",
+        "Eritrea",
+        "Cook Islands",
+        "Tanzania"
+      ],
+      "score": 12
+    },
+    "date": "2016-04-22"
+  }
+]
