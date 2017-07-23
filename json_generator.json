@@ -1,0 +1,24 @@
+[
+  {
+  'repeat(100)':{
+  white: {
+    players: [
+        {
+          'repeat(7)': '{{country()}}'
+        }
+    ],
+      score: '{{integer(6, 12)}}'
+  },
+    black: {
+      players: [
+        {
+          'repeat(7)': '{{country()}}'
+        }
+      ],
+        score: '{{integer(6, 12)}}'
+    },
+      date: '{{moment(this.date(new Date(2016, 0, 1), new Date())).format("YYYY-MM-DD")}}'
+      
+}
+}
+]
