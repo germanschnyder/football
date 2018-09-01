@@ -31,7 +31,7 @@ with open('data.json') as f:
 
         # use diff for now
         diff = abs(match['white']['score'] - match['black']['score'])
-        row[len(row)-1] = 1 if diff < 4 else 0
+        row[len(row)-1] = 1 if diff < 3 else 0
         # row[len(row) - 1] = diff
 
         data.append(row)
@@ -42,13 +42,11 @@ np.random.shuffle(data)
 X = data[:, :-1]
 y = data[:, -1]
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.15)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33)
 
 model = Sequential()
 
-model.add(Dense(2, activation='relu', input_dim=len(names)))
-model.add(Dropout(0.5))
-model.add(Dense(4, activation='relu'))
+model.add(Dense(14, activation='relu', input_dim=len(names)))
 model.add(Dropout(0.5))
 model.add(Dense(1, activation='sigmoid'))
 
@@ -58,6 +56,8 @@ model.compile(loss='binary_crossentropy',
               optimizer='adam',
               metrics=['accuracy'])
 
-model.fit(X_train, y_train, epochs=100, batch_size=5)
+model.fit(X_train, y_train, epochs=200, batch_size=5)
 
 score = model.evaluate(X_test, y_test)
+
+model.save('my_model.h5')

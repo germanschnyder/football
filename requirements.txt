@@ -4,3 +4,4 @@ sklearn
 keras
 scikit-learn
 jupyter
+h5py
