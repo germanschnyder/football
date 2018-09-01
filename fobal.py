@@ -1,13 +1,18 @@
+from pprint import pprint
+
+import keras
 from keras.models import Sequential
 from keras.layers import Dense, Dropout
 
-
 import numpy as np
+import pandas as pd
 import json
 
 from sklearn.model_selection import train_test_split
 
 data = []
+
+keras.callbacks.TensorBoard(log_dir='./Graph', histogram_freq=0, write_graph=True, write_images=True)
 
 with open('data.json') as f:
     json_arr = json.load(f)
@@ -31,7 +36,7 @@ with open('data.json') as f:
 
         # use diff for now
         diff = abs(match['white']['score'] - match['black']['score'])
-        row[len(row)-1] = 1 if diff < 3 else 0
+        row[len(row)-1] = 1 if diff < 2 else 0
         # row[len(row) - 1] = diff
 
         data.append(row)
@@ -47,7 +52,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33)
 model = Sequential()
 
 model.add(Dense(14, activation='relu', input_dim=len(names)))
-model.add(Dropout(0.5))
+# model.add(Dropout(0.5))
 model.add(Dense(1, activation='sigmoid'))
 
 
@@ -56,8 +61,15 @@ model.compile(loss='binary_crossentropy',
               optimizer='adam',
               metrics=['accuracy'])
 
-model.fit(X_train, y_train, epochs=200, batch_size=5)
+tbCallBack = keras.callbacks.TensorBoard(log_dir='./Graph', histogram_freq=0, write_graph=True, write_images=True)
+
+model.fit(X_train, y_train, epochs=200, callbacks=[tbCallBack])
 
 score = model.evaluate(X_test, y_test)
 
-model.save('my_model.h5')
+model.save_weights('weights')
+
+# Save weights for external usage
+df = pd.DataFrame(model.get_weights())
+df.to_csv("weights.csv", header=False)
+
