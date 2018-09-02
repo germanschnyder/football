@@ -31,15 +31,23 @@ with open('data.json') as f:
 
     for match in json_arr:
         row = np.zeros(len(names) + 2, dtype=int)
+        row2 = np.zeros(len(names) + 2, dtype=int)
         for w in match['white']['players']:
             row[names.index(w)] = 1
+            row2[names.index(w)] = -1
+
         for b in match['black']['players']:
             row[names.index(b)] = -1
+            row2[names.index(b)] = 1
 
         row[len(row) - 2] = match['white']['score']
         row[len(row) - 1] = match['black']['score']
 
+        row2[len(row2) - 2] = match['black']['score']
+        row2[len(row2) - 1] = match['white']['score']
+
         data.append(row)
+        data.append(row2)
 
 data = np.array(data)
 
