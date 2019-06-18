@@ -55,8 +55,8 @@ np.random.shuffle(data)
 X = data[:, :-2]
 y = data[:, -2:]
 
-pprint(X)
-pprint(y)
+#pprint(X)
+#pprint(y)
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33)
 
@@ -80,4 +80,35 @@ model.save('scores-model')
 
 score = model.evaluate(X_test, y_test)
 
-pprint(score)
+pprint('Score %s' % score)
+
+
+test_match = np.array(json.loads("""
+{
+	"white": {
+		"players": ["Diego Gonzalez", "Diego Carnebia", "Federico Bouchaton",
+			"Gonzalo Fajardo", "Alejandro Chacon", "Javier Sorella", ""
+		],
+		"score": 7,
+		"outcome": {
+			"value": 2,
+			"name": "Win",
+			"code": "W"
+		}
+	},
+	"black": {
+		"players": ["German Schnyder", "Federico De Joan", "Esteban Lussich", "Pablo Roses", "Haldo Sponton", "Pablo Della Corte", ""],
+		"score": 4,
+		"outcome": {
+			"value": 0,
+			"name": "Lose",
+			"code": "L"
+		}
+	}
+}
+"""))
+
+
+predictions = model.predict(test_match)
+
+pprint(predictions)
